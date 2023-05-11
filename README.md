@@ -6,7 +6,7 @@
 
 Hi, my name is cintagram, im network and discord dev.
 I am servicing battle cats(game) save edit service in Korea.
-Feel free to contact me : PULSE#2101 (DISCORD)
+Feel free to contact me : PULSE#2855 (DISCORD)
 
 ```
 
