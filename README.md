@@ -1,4 +1,4 @@
-<h1 align="center">NETWORK && DISCORD DEVELOPER</h1>
+<h1 align="center">Python Developer / Hacker</h1>
 
 
 
