@@ -43,6 +43,5 @@ dev-at = "pulservice"
 
 - [PULSERVICE](https://discord.gg/NXheRpCUwY) - Battle Cats save edit & edit bot service
 - [PULSERVICE](https://discord.gg/NXheRpCUwY) - 냥코대전쟁 세이브 에디팅 & 에딧봇 서비스
-- [AIRTIME BOTNET](https://discord.gg/NXheRpCUwY) - powerful PHP botnet
 
 
