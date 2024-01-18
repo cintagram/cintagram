@@ -9,7 +9,7 @@ I am servicing battle cats(game) save edit service in Korea.
 Feel free to contact me : catknife_ (DISCORD)
 
 ```
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cintagram&theme=dark&layout=compact&langs_count=5" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pulse&theme=dark&layout=compact&langs_count=5" />
 ```python
 name = "CintagramABP (PULSE)"
 most_like_lang = "Python"
