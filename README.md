@@ -4,13 +4,12 @@
 
 ```
 
-Hi, my name is cintagram, im network and discord dev.
+Hi, my name is cintagram, im battlecats and discord dev.
 I am servicing battle cats(game) save edit service in Korea.
-Feel free to contact me : PULSE#2855 (DISCORD)
+Feel free to contact me : catknife_ (DISCORD)
 
 ```
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=cintagram&theme=dark&layout=compact&langs_count=5" />
 ```python
 name = "CintagramABP (PULSE)"
 most_like_lang = "Python"
@@ -29,12 +28,12 @@ dev-at = "pulservice"
 ╠═══════════════════════════════════════════════════╣
 ║                   MAIN-PROJECT                    ║
 ║                                                   ║
-║                  Airtime botnet                   ║
+║                     BCSFE_GUI                     ║
 ║              BCSFE_Python_Discord_Bot             ║
 ╠═══════════════════════════════════════════════════╣
 ║                     MAIN-LANG                     ║
 ║                                                   ║
-║            Python | Javascript | Swift            ║
+║            Python | C | C# | Obj-C | Swift        ║
 ╚═══════════════════════════════════════════════════╝
 ```
 
