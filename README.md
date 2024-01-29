@@ -6,7 +6,7 @@
 Hi, my name is cintagram, im battlecats editor kr dev.
 I am servicing the BEST battlecats hacking service in South Korea.
 Working with fieryhenry, 1timestock(old name), and PULSErvice Admins(helpers) & CoojiTV.
-Studying Cryptography (AES256) and Qt.
+Studying Cryptography (AES256) and Qt, SwiftUI.
 Mainly use Python, C, C#, Swift, Objective-C.
 Feel free to contact me : bcpulservice (DISCORD) , discord.gg/pulservice
 
