@@ -6,8 +6,9 @@
 Hi, my name is cintagram, im battlecats editor kr dev.
 I am servicing the BEST battlecats hacking service in South Korea.
 Working with fieryhenry, 1timestock(old name), and PULSErvice Admins(helpers) & CoojiTV.
+Studying Cryptography (AES256) and Qt.
 Mainly use Python, C, C#, Swift, Objective-C.
-Feel free to contact me : catknife_ (DISCORD) , discord.gg/pulservice
+Feel free to contact me : bcpulservice (DISCORD) , discord.gg/pulservice
 
 ```
 [![Cintagram's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cintagram)](https://github.com/anuraghazra/github-readme-stats)
