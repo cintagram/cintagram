@@ -1,13 +1,13 @@
-<h1 align="center">Python Developer / Hacker</h1>
+<h1 align="center">CAT_KNIFE | PULSE</h1>
 
 
 
 ```
 Hi, my name is cintagram, im battlecats editor kr dev.
-I am servicing the BEST battlecats hacking service in South Korea.
+I am servicing the BEST battlecats(냥코대전쟁) hacking service in South Korea.
 Working with fieryhenry, 1timestock(old name), and PULSErvice Admins(helpers) & CoojiTV.
 Studying Cryptography (AES256) and Qt, SwiftUI.
-Mainly use Python, C, C#, Swift, Objective-C.
+Mainly use Python, C, Swift, Objective-C.
 Feel free to contact me : bcpulservice (DISCORD) , discord.gg/pulservice
 
 ```
